@@ -117,7 +117,7 @@ function randomColor() {
 }
 
 var toInsert = document.createElement("div");
-toInsert.innerHTML = `made with <span class ="heart"><i class="fas fa-heart"></i></span> by Deeksha Sharma`;
+toInsert.innerHTML = `made with <span class ="heart"><i class="fas fa-heart"></i></span> by Pratham Jain`;
 toInsert.classList.add('insert');
 document.body.appendChild(toInsert);
 
