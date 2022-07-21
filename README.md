@@ -8,10 +8,10 @@
 ## Screenshots of the project
 
 
-  <img src='./screenshots/img1.png' alt='screenshot'><br>
+  <img src='img1.png' alt='screenshot'><br>
   ### Switching to Easy mode<br>
-  <img src='./screenshots/img2.png' alt='screenshot'><br>
+  <img src='img2.png' alt='screenshot'><br>
   ### Wrong Guess
-  <img src='./screenshots/img3.png' alt='screenshot'><br>
+  <img src='img3.png' alt='screenshot'><br>
   ### If choosen the correct color box(matches with the the given RGB code).
-  <img src='./screenshots/img4.png' alt='screenshot'>
+  <img src='img4.png' alt='screenshot'>
